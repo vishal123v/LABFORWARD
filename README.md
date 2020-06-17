@@ -1,4 +1,32 @@
-## Real-time-communication-nodejs
+##PROJECT PLAN
+
+To do:
+ -develop two simple Node.js applications to illustrate how asynchronous serial
+  communication works between a serial device and a driver.
+
+Accepetance Criteria:
+ -model should consist of two processes that communicate asynchronously 
+ -either process should write/read formatted ASCII, parse the result and print ongoing activity and intermediate state in a
+  readable way to the user
+ -one part to be a device driver and performing a query command, and 
+ -the other part to be a virtual instrument which simulates its state and gives a response.
+
+ 
+Definition of Done:
+ -Produced code for presumed functionalities
+ -Assumptions of User Story met
+ -Project builds without errors
+ -CLI implemented and tested
+ -Unit tests written and passing
+ -Project deployed on the test environment identical to production platform
+ -Tests on devices listed in the project assumptions passed
+ -Accepetance criteria met
+ -Documentation updated
+ 
+
+
+
+## real Time Communication
 
 Simulation of real-time communication between a devie and driver using node js and socket.io. For running multiple processes (node apps) in same terminal, a package named "concurrently" is used. 
 
