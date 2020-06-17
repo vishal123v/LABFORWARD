@@ -14,8 +14,8 @@ For development, you will need Node.js and a node global package, npm installed 
 
 ## Install
 
-    $ git clone https://github.com/ashokkavungal5/real-time-communication-nodejs.git
-    $ cd real-time-communication-nodejs
+    $ git clone https://github.com/vishal123v/LABFORWARD.git
+    $ cd LABFORWARD
     $ npm install
 
 
